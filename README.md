@@ -35,3 +35,20 @@ bayesian-optimization>=1.4.3
 
 -Deep learning
 torch>=1.10.0
+
+## Installation
+1.Clone the repository:
+https://github.com/Zhangdalu3534/Trans-Soft-MTL
+2.Install the required packages:
+pip install -r requirements.txt
+
+## Usage
+The data used in this study is in a folder called“rawdata”
+
+## To run the model:
+1.Prepare your ND-OPO dataset in the required format.
+2.Train the model using the provided script.
+For more details on usage, check the documentation in the codebase.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
